@@ -79,7 +79,7 @@ y el resultado se imprime en la consola.
 */
 
 /*
-El código que escrito divide el problema en partes administrables 
+El código escrito divide el problema en partes administrables 
 en lugar de intentar calcular el GPA en una operación grande. 
 En primer lugar, inicializó y calculó el valor de totalCreditHours. 
 A continuación, inicializó y calculó el valor de totalGradePoints. 
